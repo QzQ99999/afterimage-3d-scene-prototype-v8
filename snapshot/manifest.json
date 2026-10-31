@@ -1,0 +1,26 @@
+{
+  "version": "V8",
+  "approvedDate": "2026-11-01",
+  "htmlBytes": 165512121,
+  "htmlSha256": "8294e7e9d86bd670ec3382fb75f06091608bccfd4a0c60ade7a62ec2fe6a1fcb",
+  "compression": "gzip",
+  "compressedBytes": 110640701,
+  "compressedSha256": "035aa05234d5ff18da39dc7e59e5b2fb19f490e454bbceec930871e7c2eefec9",
+  "parts": [
+    {
+      "file": "index.html.gz.part00",
+      "bytes": 50331648,
+      "sha256": "010a46a4111a2a90c65dbd2e3bcf8a5612d3eb09acd550994de50754e6f3f082"
+    },
+    {
+      "file": "index.html.gz.part01",
+      "bytes": 50331648,
+      "sha256": "d2e20573a73e381a8728337a066ead8d6f6ce89fdfef0ceb423fbaca18f9080b"
+    },
+    {
+      "file": "index.html.gz.part02",
+      "bytes": 9977405,
+      "sha256": "d0097f6b676e5c88dc59a3785043d5523f3d4d7eae1685573d745eb5e43af3bc"
+    }
+  ]
+}

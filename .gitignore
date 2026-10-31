@@ -1,0 +1,4 @@
+site/
+prepare_snapshot.py
+*.zip
+publication-verification.json
